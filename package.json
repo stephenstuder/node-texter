@@ -1,0 +1,16 @@
+{
+    "name": "scratch-and-dent-text",
+    "version": "1.0.0",
+    "description": "check stock and send text",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Stephen Studer",
+    "license": "ISC",
+    "dependencies": {
+        "@vonage/server-sdk": "^2.10.7-beta-2",
+        "dotenv": "^16.0.0"
+    }
+}
